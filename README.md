@@ -10,5 +10,5 @@ Use Steps:
 
 Video:
 
-[video](https://www.youtube.com/watch?v=tYxfB2z050w)
+[Video Youtube](https://www.youtube.com/watch?v=tYxfB2z050w)
 
